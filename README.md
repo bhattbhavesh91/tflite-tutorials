@@ -1,11 +1,11 @@
-# Introduction to TensorFlow Lite (TFLite)
+# Part 1 - Introduction to TensorFlow Lite (TFLite)
 ## To view the video
 * [Click here](https://youtu.be/x7E7rfO1tcc)
 * Click on the image below
 
 [![Introduction to TensorFlow Lite (TFLite)](http://img.youtube.com/vi/x7E7rfO1tcc/0.jpg)](http://www.youtube.com/watch?v=x7E7rfO1tcc)
 
-# Convert Tensorflow/Keras model to TensorFlow Lite (TFLite)
+# Part 2 - Convert Tensorflow/Keras model to TensorFlow Lite (TFLite)
 ## To view the video
 * [Click here](https://youtu.be/bKLL0tAj3GE)
 * Click on the image below
@@ -13,7 +13,7 @@
 [![Convert Tensorflow/Keras model to TensorFlow Lite (TFLite)](http://img.youtube.com/vi/bKLL0tAj3GE/0.jpg)](http://www.youtube.com/watch?v=bKLL0tAj3GE)
 
 
-# Post-training Quantization in TensorFlow Lite (TFLite)
+# Part 3 - Post-training Quantization in TensorFlow Lite (TFLite)
 ## To view the video
 * [Click here](https://youtu.be/IuyTC-_otGw)
 * Click on the image below
